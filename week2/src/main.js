@@ -1,7 +1,7 @@
-import * as THREE from "three";
+import * as THREE from "/three";
 import { OrbitControls } from "three/addons/controls/OrbitControls";
-import { TextGeometry } from "three/addons/geometries/TextGeometry";
-import { FontLoader } from "three/addons/loaders/FontLoader";
+import { TextGeometry } from "/three/addons/geometries/TextGeometry";
+import { FontLoader } from "/three/addons/loaders/FontLoader";
 
 
 
