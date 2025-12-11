@@ -1,0 +1,3 @@
+# Canvas for Coders Final Project
+
+'A Lovers' Discourse' by Roland Barthes is the main source material for my project. I'm interested in translating Barthes' literary fragmenting of the experience of love into a three dimensional space. I feel like the format lends itself to the idea of these interconnected fragments that work with and against each other simultaneously. There's something "tangible" or "physical" about these aspects because they affect real material change in each other. 
